@@ -10,6 +10,9 @@ django-bootstrap4 = "*"
 django-heroku = "*"
 python-decouple = "*"
 numpy = "*"
+dj-database-url = "*"
+gunicorn = "*"
+whitenoise = "*"
 
 [dev-packages]
 
